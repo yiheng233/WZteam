@@ -1,2 +1,1 @@
-Privacy Policy
-We don't use and collect any personal informations.
+Privacy Policy: We don't use and collect any personal informations.
